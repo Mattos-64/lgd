@@ -15,7 +15,7 @@ descoberta de bebidas a partir de ingredientes disponíveis e gerenciamento de f
 
 ## 1. Visão Geral
 
-O **LGD — LetsGetDrunk** é uma aplicação mobile voltada para Android e iOS que atua como um assistente interativo de coquetelaria. 
+O **LGD  LetsGetDrunk** é uma aplicação mobile voltada para Android e iOS que atua como um assistente interativo de coquetelaria. 
 A proposta do projeto é permitir que o usuário explore receitas de drinks, identifique opções preparáveis com os itens disponíveis em 
 seu bar doméstico, salve receitas de interesse sem necessidade de login ou servidor próprio e visualize instruções completas de preparo.
 
